@@ -1,0 +1,100 @@
+
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #cec7c7;
+    color: #333;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem 0;
+}
+
+header {
+    background-color: #2c2a2a;
+    color: #fdf6f6;
+    text-align: center;
+    padding: 1rem 0;
+}
+
+
+section {
+    padding: 50px;
+    margin: 20px;
+    background-color: #faecec;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+#foot{
+    color: #f8f8f8;
+}
+h1
+ {
+    color: #5f3333;
+    text-align: center;
+}
+h2,h3
+ {
+    color: #5f3333;
+
+}
+
+a {
+    color: #007bff;
+    text-decoration:dotted;
+}
+
+.about {
+    text-align: justify;
+}
+
+.skills ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    
+}
+
+.skills li {
+    background-color: #0974e7;
+    color: #fffcfc;
+    border-radius: 4px;
+    padding: 5px 10px;
+    margin: 5px;
+}
+
+.Pros .pro {
+    margin-bottom: 20px;
+}
+
+.contact form {
+    display: flex;
+    flex-direction: column;
+    max-width: 400px;
+    margin: auto;
+}
+
+.contact label,
+.contact input,
+.contact textarea {
+    margin-bottom: 10px;
+}
+
+.contact input,
+.contact textarea {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+p{
+    color:#333;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight:bolder;
+    font-style:oblique;
+}
+
